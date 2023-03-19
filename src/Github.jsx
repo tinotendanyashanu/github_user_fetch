@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-// import "./index.css";
+import "./index.css";
 
 // i sm importing the gihub api users to my projects
 const url = "https://api.github.com/users";
