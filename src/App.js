@@ -1,9 +1,7 @@
-import React, { useState, useEffect } from "react";
-
-const url = "https://api.github.com/users";
+import Git from "./Github";
 
 function App() {
-  return <></>;
+  return <Git />;
 }
 
 export default App;
